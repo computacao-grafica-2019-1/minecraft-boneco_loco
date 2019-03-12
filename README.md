@@ -1,2 +1,2 @@
-# minecraft-boneco_loco
-minecraft-boneco_loco created by GitHub Classroom
+# boneco_loco
+Robo de Computação Gráfica 
